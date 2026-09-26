@@ -7,7 +7,7 @@ The following is a schematic made on KiCAD.
 
 The following is the PCB made on KiCAD.
 
-<img width="342" height="347" alt="image" src="https://github.com/user-attachments/assets/fc8561f9-5dba-4e2b-a11a-0c2a8073bb40" />
+<img width="379" height="359" alt="image" src="https://github.com/user-attachments/assets/72c6022d-f03c-41f0-9fad-85f55a64bdc2" />
 
 The following image is the final assembled version (CAD not the real one, I will update my readme.md once I finish building the actual Hackropad).
 
