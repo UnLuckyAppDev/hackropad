@@ -13,6 +13,19 @@ The following image is the final assembled version (CAD not the real one, I will
 
 <img width="596" height="323" alt="image" src="https://github.com/user-attachments/assets/bba32df4-9e8c-4567-9d5a-633fdf05e9ed" />
 
+These are more side views of the Hackropad:
+
+<img width="228" height="161" alt="image" src="https://github.com/user-attachments/assets/cd572723-1c37-4ee0-856f-60c05351796f" />
+
+<img width="307" height="138" alt="image" src="https://github.com/user-attachments/assets/c7cda06d-022f-471e-9bd0-4aa4ed65765b" />
+
+<img width="453" height="269" alt="image" src="https://github.com/user-attachments/assets/ff94d46c-07c2-4d7a-b96e-bbe2ac169861" />
+
+<img width="452" height="266" alt="image" src="https://github.com/user-attachments/assets/ef352df0-9430-477f-9fb5-63146316e4f8" />
+
+<img width="437" height="239" alt="image" src="https://github.com/user-attachments/assets/12402c54-6385-4816-87da-3226d7005169" />
+
+
 The following is the BOM for the Hackropad
 
 [Hack_Club_Macropad.csv](https://github.com/user-attachments/files/30129260/Hack_Club_Macropad.csv)
