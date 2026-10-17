@@ -25,6 +25,14 @@ These are more side views of the Hackropad:
 
 <img width="437" height="239" alt="image" src="https://github.com/user-attachments/assets/12402c54-6385-4816-87da-3226d7005169" />
 
+The following are more pictures:
+
+<img width="603" height="277" alt="image" src="https://github.com/user-attachments/assets/d0d35c4c-b706-4203-8a56-fe9f275ef7a8" />
+
+<img width="350" height="281" alt="image" src="https://github.com/user-attachments/assets/15aa8113-0bcc-4dce-9325-f98384529eec" />
+
+<img width="446" height="266" alt="image" src="https://github.com/user-attachments/assets/b380ee3d-eb11-4be6-b191-237d4a4e3aca" />
+
 
 The following is the BOM for the Hackropad
 
